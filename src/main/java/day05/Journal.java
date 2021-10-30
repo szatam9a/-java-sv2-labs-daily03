@@ -19,6 +19,5 @@ public class Journal {
         Journal journal = new Journal();
         journal.addStudent("Pista Pista");
         journal.addStudent("PistaPista");
-        System.out.println(journal.lista.toString());
     }
 }
